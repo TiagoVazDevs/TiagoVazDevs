@@ -1,5 +1,5 @@
 - 👋 Hi guys, I’m @TiagoVazDevs! 
-- 👀 I’m interested in more about programing.
+- 👀 I’m interested in learning more about programing.
 - 🌱 I’m currently learning by myself.
 - 💞️ I’m looking to collaborate on full-Stack.
 - 📫 How to reach me? On Instagram @tiago.vazz.oficial.
